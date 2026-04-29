@@ -34,7 +34,6 @@ I am a **Software Engineer** specializing in Full Stack development, dedicated t
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archenyel&show_icons=true&theme=radical&hide_border=true" alt="Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archenyel&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="150" />
 </p>
 
