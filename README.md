@@ -24,7 +24,7 @@ I am a **Software Engineer** specializing in Full Stack development. Currently, 
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,android,flutter,dart" alt="Mobile Skills" />
+  <img src="https://skillicons.dev/icons?i=react,android" alt="Mobile Skills" />
 </p>
 
 ### ☁️ DevOps & Tools
