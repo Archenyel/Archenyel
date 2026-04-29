@@ -14,22 +14,22 @@ I am a **Software Engineer** specializing in Full Stack development. Currently, 
 
 ### 💻 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend Skills" />
 </p>
 
 ### 🔧 Backend Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,java,cs,postgres,mysql,mongodb,sqlite" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,java,cs,postgres,mysql,mongodb" alt="Backend Skills" />
 </p>
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,apple,android,flutter,dart,kotlin" alt="Mobile Skills" />
+  <img src="https://skillicons.dev/icons?i=react,android,flutter,dart" alt="Mobile Skills" />
 </p>
 
 ### ☁️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,azure,gcp,firebase,postman,blender,unity,arduino" alt="Tools & DevOps" />
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,azure,firebase,postman,blender,unity" alt="Tools & DevOps" />
 </p>
 
 </div>
