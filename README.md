@@ -22,10 +22,6 @@ I am a **Software Engineer** specializing in Full Stack development. Currently, 
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,java,cs,postgres,mysql,mongodb" alt="Backend Skills" />
 </p>
 
-### 📱 Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,android" alt="Mobile Skills" />
-</p>
 
 ### ☁️ DevOps & Tools
 <p>
